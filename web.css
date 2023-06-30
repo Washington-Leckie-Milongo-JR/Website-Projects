@@ -70,8 +70,8 @@ ul li a:hover{
 
 .search{
     width: 330px;
-    left: 90px;
-    float: left;
+    right: 30%;
+    float: right;
     margin-left: 270px;
 }
 
@@ -172,7 +172,7 @@ ul li a:hover{
     height: 400px;
     position: absolute;
     background-color: grey;
-    top: 10px;
+    top: 70px;
     left: 970px;
     border-radius: 10px;
     background: linear-gradient(to top, rgba(grey)50%, rgba(grey)50%);

@@ -29,34 +29,30 @@
 }
 */
 .navbar{
-    width: 1200px;
+    width: 100%;
     height: 75px;
     margin: auto;
+    background-color: green;
 
 }
+
 .icon{
-    width: 200px;
+    width: 60px;
     float: left;
     height: 70px;
 }
 
 .logo{
-    color: forestgreen;
+    color: rgb(53, 34, 139);
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
-    /*(font-size: 34px;*/
+    font-size: 34px;
 }
 
-.menu{
-    width: 111%;
-    margin-top: -60px;
-    float: left;
-    height: 60px;
-    background: orangered;
-}
+
 
 ul{
     float: left;
@@ -67,7 +63,7 @@ ul{
 
 ul li{
     list-style: none;
-    margin-left: 40px;
+    margin-left: 60px;
     margin-top: 20px;
     font-size: 14px;
 }
